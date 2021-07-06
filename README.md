@@ -5,8 +5,8 @@
 I'm here trying to find a way to solve any problem with programming 😅
 
 <div style="display: inline_block">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrojrodrigues&show_icons=true&theme=react"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojrodrigues&theme=jolly"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pejamp&show_icons=true&theme=react"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejamp&theme=jolly"/>
 </div>
 
 <div style="display: inline_block">  
