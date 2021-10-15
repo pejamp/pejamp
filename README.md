@@ -1,26 +1,48 @@
+<img src="https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600" width="100%" height="150" />
+
 # Pedro Rodrigues
 
-## Hi there 👋
+I'm passionate about front-end and related stuff.
 
-I'm here trying to find a way to solve any problem with programming 😅
+I am always trying to improve my programming skills, discover new tools in the world of technology, and I'm also here to find a way to solve any problem with programming.
 
-<div style="display: inline_block">  
+> "Stay Hungry, Stay Foolish"
+>
+  
+<a href = "https://www.linkedin.com/in/pedro-j%C3%A2nio-rodrigues-abreu-3a3647176/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href = "mailto: pedro.roguea@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+#
+
+<div>  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pejamp&show_icons=true&theme=react"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejamp&theme=jolly"/>
 </div>
 
-<div style="display: inline_block">  
-  <p>
-    <strong><h3>📱 Contacts:</h3></strong>  
-  </p>  
-  <a href = "https://www.linkedin.com/in/pedro-j%C3%A2nio-rodrigues-abreu-3a3647176/"> <img height="20" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto: pedro.roguea@gmail.com"> <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+#
+
+Technologies I'm currently studying:  
+<div>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<div style="display: inline_block">  
-  <p>
-    <strong><h3>📚 Technologies I'm currently studying:</h3></strong> 
-  </p>
-  <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>  
+#
+
+#OPENTOWORK
