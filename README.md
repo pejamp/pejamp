@@ -1,5 +1,3 @@
-<img src="https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600" width="100%" height="150" />
-
 # Pedro Rodrigues
 
 I'm passionate about front-end and related stuff.
@@ -8,12 +6,17 @@ I am always trying to improve my programming skills, discover new tools in the w
 
 > "Stay Hungry, Stay Foolish"
 >
-  
+
+<br/>
+
 <a href = "https://www.linkedin.com/in/pedro-j%C3%A2nio-rodrigues-abreu-3a3647176/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href = "mailto: pedro.roguea@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href = "https://app.rocketseat.com.br/me/pedro-rodrigues-1569779767">
+  <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo">
 </a>
 
 #
