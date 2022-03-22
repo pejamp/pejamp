@@ -1,8 +1,8 @@
 # Pedro Rodrigues
 
-I'm passionate about front-end and related stuff.
+I'm always hyped about front-end and related stuff.
 
-I am always trying to improve my programming skills, discover new tools in the world of technology, and I'm also here to find a way to solve any problem with programming.
+I'm looking forward to improve my programming skills, discover new tools in the world of technology, and I'm also here to find a way to solve any problem with programming.
 
 > "Stay Hungry, Stay Foolish"
 >
