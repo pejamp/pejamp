@@ -21,13 +21,6 @@ I'm looking forward to improve my programming skills, discover new tools in the 
 
 #
 
-<div>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pejamp&show_icons=true&theme=react"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejamp&theme=jolly"/>
-</div>
-
-#
-
 Technologies I'm currently studying:  
 <div>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
