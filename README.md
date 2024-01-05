@@ -4,9 +4,6 @@ I'm always hyped about front-end and related stuff.
 
 I'm looking forward to improve my programming skills, discover new tools in the world of technology, and I'm also here to find a way to solve any problem with programming.
 
-> "Stay Hungry, Stay Foolish"
->
-
 <br/>
 
 <a href = "https://www.linkedin.com/in/pedro-j%C3%A2nio-rodrigues-abreu-3a3647176/">
@@ -14,9 +11,6 @@ I'm looking forward to improve my programming skills, discover new tools in the 
 </a>
 <a href = "mailto: pedro.roguea@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href = "https://app.rocketseat.com.br/me/pedro-rodrigues-1569779767">
-  <img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo">
 </a>
 
 #
@@ -32,13 +26,8 @@ Technologies I'm currently studying:
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
-#
-
-#OPENTOWORK
